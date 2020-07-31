@@ -4,14 +4,14 @@ Organize and share documents
 
 ## HTML 1 - Late 1991
 
-- '<html> … </html>' — The root element
-- '<head> … </head>' — The document head
-- '<title> … </title>' — The page title
-- '<body> … </body>' — The page's content
-- '<h1> … </h1>' — A section heading
-- '<p> … </p>' — A paragraph
-- '<a> … </a>' — A link
-- '<img>' — An image
+- `<html> … </html>` — The root element
+- `<head> … </head>` — The document head
+- `<title> … </title>` — The page title
+- `<body> … </body>` — The page's content
+- `<h1> … </h1>` — A section heading
+- `<p> … </p>` — A paragraph
+- `<a> … </a>` — A link
+- `<img>` — An image
 
 ## HTML 2 - November 24, 1995
 
