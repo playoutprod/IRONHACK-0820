@@ -23,10 +23,7 @@ To apply css on html, we use css selectors to target html nodes.
 ```
 
 #### result
-<div id="exemple1">
-  <style>#exemple1 div {width:50px;height:50px;background-color:#000;}</style>
-  <div></div>
-</div>
+<div style="width:50px;height:50px;background-color:#000;"></div>
 
 ---
 
@@ -62,14 +59,7 @@ To apply css on html, we use css selectors to target html nodes.
 ```
 
 #### result
-<div id="exemple2">
-  <style>.myClass {
-    width:150px;
-    height:1em;
-    background-color:#00FF00;
-  }</style>
-  <div class="myClass"></div>
-</div>
+<div class="myClass" style="width:150px;height:1em;background-color:#00FF00;"></div>
 
 ---
 
@@ -90,11 +80,4 @@ To apply css on html, we use css selectors to target html nodes.
 ```
 
 #### result
-<div id="exemple3">
-  <style>#myId {
-    width:2em;
-    height:80px;
-    background-color:#0000FF;
-  }</style>
-  <div id="myId"></div>
-</div>
+<div id="myId" style="width:2em;height:80px;background-color:#0000FF;"></div>
