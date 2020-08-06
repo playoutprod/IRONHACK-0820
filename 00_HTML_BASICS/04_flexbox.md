@@ -31,4 +31,4 @@ or
 
 ```
 
-![relative links](images/Relative_links.jpg)
+![relative links](images/Flexbox.jpg)
