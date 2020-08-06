@@ -23,7 +23,7 @@ To apply css on html, we use css selectors to target html nodes.
 ```
 
 #### result
-<div style="width:50px;height:50px;background-color:#000;"></div>
+![ex2](images/select_ex1.png)
 
 ---
 
@@ -59,7 +59,7 @@ To apply css on html, we use css selectors to target html nodes.
 ```
 
 #### result
-<div class="myClass" style="width:150px;height:1em;background-color:#00FF00;"></div>
+![ex2](images/select_ex2.png)
 
 ---
 
@@ -80,4 +80,4 @@ To apply css on html, we use css selectors to target html nodes.
 ```
 
 #### result
-<div id="myId" style="width:2em;height:80px;background-color:#0000FF;"></div>
+![ex2](images/select_ex3.png)
