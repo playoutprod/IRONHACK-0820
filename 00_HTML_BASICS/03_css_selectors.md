@@ -81,3 +81,23 @@ To apply css on html, we use css selectors to target html nodes.
 
 #### result
 ![ex2](images/select_ex3.png)
+
+---
+
+### Parent node filter
+
+CSS
+
+```
+div a {
+  color:#FF00FF;
+}
+```
+
+html
+```
+<div>
+  <a href="#">Link</a>
+</div>
+```
+<a href="#" syle="color:#FF00FF">Link</a>
