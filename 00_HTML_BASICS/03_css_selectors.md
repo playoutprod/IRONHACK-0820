@@ -86,7 +86,7 @@ To apply css on html, we use css selectors to target html nodes.
 
 ### Parent node filter
 
-CSS
+css
 
 ```
 div a {
